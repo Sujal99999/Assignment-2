@@ -1,0 +1,4 @@
+Commands used to install Docker:
+sudo apt update
+sudo apt install docker-ce docker-ce-cli containerd.io -y
+docker --version

@@ -1,0 +1,6 @@
+Commands used to install Jenkins:
+sudo apt update
+sudo apt install jenkins -y
+sudo systemctl start jenkins
+sudo systemctl enable jenkins
+Access Jenkins: http://<your-public-ip>:8080

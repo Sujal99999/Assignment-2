@@ -1,0 +1,4 @@
+Commands used to configure Git:
+git config --global user.name 'Sujal99999'
+git config --global user.email 'sujal.sutariya@georgebrown.ca'
+git --version
